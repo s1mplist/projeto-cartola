@@ -1,0 +1,6 @@
+1-> Time que o jogador está
+2-> Lesões (sofreu a lesão e voltou da recuperação)
+3-> Parceiros de equipe
+4-> Outras temporadas
+5-> Custo do jogador (cartoleta)
+6-> Momento do time
